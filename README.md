@@ -4,6 +4,10 @@ Um projeto Yii2 PHP Framework Cadastro com Mysql Workbench
 -------------------------------------------------------------------------------
 Projeto criado para realizar um CRUD em PHP junto com MySQL Workbench
 -------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+Nesse projeto temos um Cadastro para criar, buscar, alterar e deletar um cadastro no banco de dados Mysql Workbench, as pesquisas podem ser feitas pelo CPF, Nome ou Data de Nascimento. Na página temos a quantidade de cadastros realizados.
+
 
 Ferramentas utilizadas:
 WampServer - Servidor Apache com banco de dados PHP e MySQL
