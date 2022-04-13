@@ -34,6 +34,9 @@ click em Enter - abra o projeto
 Para rodar a aplicação web via Composer dentro do caminho basic>yii serve
 Abrir endereço via Browser -  http://localhost:8080/
 
+Configuração Banco de dados - abra o caminho config/db.php na IDE PHPStorm e configure o banco com os dados.
+
+Criando o CRUD com o Gii - http://localhost:8080/index.php?r=gii para gerar as Models e o CRUD pelo GENERATE
 
 
 
